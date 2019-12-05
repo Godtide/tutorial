@@ -1,3 +1,8 @@
+Breaking dependencies
+truffle-hd-wallet-provider deprecated to @truffle/hdwallet-provider
+removed package-lock.json file
+Then npm install @truffle/hdwallet-provider
+
 ## Introduction
 
 This in depth tutorial is designed to walk you through the process of building your first dapp using a Rhombus oracle. It will guide you step by step on how to incorporate real world data into your smart contracts with the Rhombus Lighthouse Delivery method. You will learn how to interact with existing Lighthouses on Rinkeby in your smart contracts, and how to perform local testing of Lighthouses using Truffle and a local Ganache chain.
